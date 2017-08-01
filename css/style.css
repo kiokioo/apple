@@ -90,7 +90,7 @@ li{
 	width: 776px;
 	background-image: url(../images/1.png);
 	/*调节背景图片等比例放缩，用background-size:auto (放缩的比例)*/
-	background-size: auto ;                                                               
+	background-size: cover;                                                               
 	position: absolute;
 	left: calc(50% - 388px);
 	top: 220px;
